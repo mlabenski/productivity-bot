@@ -1,6 +1,6 @@
 # Dependency directories 
 node_modules
-
+client_secret.json
 
 # env files
 .env 
